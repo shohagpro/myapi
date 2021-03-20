@@ -1,0 +1,26 @@
+[
+    {
+        "title": "One Time Ticket",
+        "description": "BUY NOW",
+        "imgUrl": "../../images/one.png",
+        "price": "100"
+    },
+    {
+        "title": "One Day Pass",
+        "description": "BUY NOW",
+        "imgUrl": "../../images/two.png",
+        "price": "500"
+    },
+    {
+        "title": "Monthly Pass",
+        "description": "BUY NOW",
+        "imgUrl": "../../images/three.png",
+        "price": "1500"
+    },
+    {
+        "title": "Annual Pass",
+        "description": "BUY NOW",
+        "imgUrl": "../../images/four.png",
+        "price": "9000"
+    }
+]
